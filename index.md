@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Lavinathael's Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a blog. I intend to record my journey as I wok towards becoming a full stack developer!
